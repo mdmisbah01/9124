@@ -1,0 +1,93 @@
+
+.head{height: 100px; background-color: red;
+font-size: 60px;
+text-align: center;}
+
+.container{overflow: hidden;}
+
+.box1{height: 250px; 
+	width: 50%; 
+	background-color: gray;
+float: left;
+border: 5px solid blue;
+box-sizing: border-box;
+font-size: 40px;
+text-align: center;
+}
+
+
+.box2{height: 250px; 
+	width: 50%; 
+	background-color: green;
+float: right;
+border: 5px solid blue;
+box-sizing: border-box;
+font-size: 40px;
+text-align: center;
+}
+
+.mother{overflow: hidden;}
+
+.box{height: 100px; 
+	width: 33.33%;
+float: left;
+border: 10px solid green;
+border-radius: 15px;
+box-sizing: border-box;}
+
+.left{
+background-color: tomato;}
+
+.middle{
+background-color: yellowgreen;}
+
+.right{
+background-color: blue;}
+
+
+.footer{height: 100px;
+background-color: black;}
+
+
+.headbox{overflow: hidden;}
+
+.man{height: 300px;
+width: 20%; 
+float: left;
+border: 5px solid yellowgreen;
+border-radius: 15px;
+box-sizing: border-box;
+font-size: 30px;
+text-align: center;}
+
+
+
+.top{background-color: gray;}
+.nose{background-color: green;}
+.eye{background-color:navy;}
+.mouth{background-color:coral;}
+.hear{background-color: gold;}
+
+.footer1{height: 100px; background-color:palegreen;}
+
+.mainbox{}
+
+.has{height: 250px;
+width: 10%; float: left;
+border: 5px solid; black;
+border-radius: 10px;
+box-sizing: border-box;
+font-size: 40px;
+text-align: center;
+}
+
+.hel{background-color: red}
+.kut{background-color: blue;}
+.nez{background-color: gray;}
+.mis{background-color: green;}
+.bab{background-color: peru;}
+.aye{background-color: pink;}
+.hum{background-color: revert;}
+.dil{background-color: coral;}
+.mon{background-color: hotpink;}
+.nur{background-color: honeydew;}
